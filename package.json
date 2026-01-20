@@ -1,0 +1,24 @@
+
+  "name": "discord-modbotu-30komut",
+  "version": "1.0.0",
+  "description": "modbot 30 komutlu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js"
+  ],
+  "author": "Razoran",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
