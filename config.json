@@ -1,0 +1,26 @@
+{
+    "token": "BURAYA_BOT_TOKENINI_YAZ",
+    "prefix": "!",
+    "ownerID": "BURAYA_KENDI_DISCORD_ID_NI_YAZ",
+    "serverSettings": {
+        "logChannelID": null,
+        "muteRoleID": null,
+        "autoModEnabled": false,
+        "antiSpamEnabled": true,
+        "antiLinkEnabled": false,
+        "maxWarnsBeforeBan": 5
+    },
+    "autoMod": {
+        "bannedWords": ["küfür1", "küfür2"],
+        "maxMentions": 5,
+        "maxMessages": 5,
+        "messageInterval": 3000
+    },
+    "colors": {
+        "primary": "#0099ff",
+        "success": "#00ff00",
+        "error": "#ff0000",
+        "warning": "#ffaa00",
+        "mod": "#9b59b6"
+    }
+}
